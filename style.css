@@ -169,7 +169,7 @@ section {
 .titulo h2 {
   font-family: 'Cinzel', serif;
   font-size: 2.2rem;
-  color: var(--verde-folha);
+  color: yellow;
 }
 
 /* GRID */
